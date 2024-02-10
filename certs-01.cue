@@ -1,6 +1,6 @@
 bundle: {
 	apiVersion: "v1alpha1"
-	name:       "tls-01"
+	name:       "certs-01"
 	instances: {
 		"cert-manager": {
 			module: {
